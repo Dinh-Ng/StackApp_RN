@@ -18,11 +18,11 @@
     "dev-menu": "adb shell input keyevent 82"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^1.15.15",
-    "@react-navigation/core": "^6.1.0",
-    "@react-navigation/drawer": "^6.1.8",
-    "@react-navigation/native": "^6.0.6",
-    "@react-navigation/stack": "^6.0.11",
+    "@react-native-async-storage/async-storage": "^1.15.17",
+    "@react-navigation/core": "^6.1.1",
+    "@react-navigation/drawer": "^6.3.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
     "add": "^2.0.6",
     "react": "17.0.2",
     "react-native": "0.67.0",
